@@ -1,0 +1,9 @@
+1. Why has the cash/inventories position (B1-C1) changed from 163595844 on Apr 26
+to 262752125 on April 28?
+
+2. Which are the factors behind the drop from 4487 to 0 on executed not priced sales
+(B11-C2)?
+
+3. List which contracts have changed their number of tonnes from Apr 26 to Apr 27?
+
+4. Provide detailed list of contracts included on cash sales 803031 (B1-C8) from Apr 28
